@@ -17,3 +17,5 @@ An Autosar-based electronic gas pedal ECU that reads joystick input and controls
 | NFR3   | The RTE shall manage cyclic and data-triggered events for runnable activation.                                                                                                 |
 | NFR4   | The system shall monitor signal age and signal status for error handling.                                                                                                      |
 | NFR5   | Driver functions `pushPort()` and `pullPort()` shall return error codes that must be handled by the application.                                                               |
+
+![System Diagram](images/EGP_signal_flow.PNG)
