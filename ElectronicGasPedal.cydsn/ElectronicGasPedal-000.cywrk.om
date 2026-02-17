@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Pins">
+<ExpandedNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\TopDesign</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Pins</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Analog</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Clocks</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Interrupts</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\DMA</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\System</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Directives</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Flash Security</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\EEPROM</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\cyapicallbacks.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\main.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_brakelight.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_brakelight.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_control.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_control.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_engine.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_engine.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_joystick.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_joystick.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_control.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_control.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_io.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_io.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_system.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_system.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\adc.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\adc.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\derivate.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\global.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\pwm_rgb.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\pwm_rgb.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\uart.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\uart.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\watchdog.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\watchdog.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\rte.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\rte.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\rte_types.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_adc.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_adc.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_adc_type.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_adc_type.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_gpio.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_gpio.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_gpio_type.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_gpio_type.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_pwm.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_pwm.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_pwm_type.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_pwm_type.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_speed.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_speed.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sc_speed_type.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sp_common.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\rte\sp_common.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\Generated_Source</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\TopDesign</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Pins</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Analog</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Clocks</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Interrupts</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\DMA</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\System</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Directives</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\Flash Security</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.cydwr\EEPROM</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\cyapicallbacks.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\main.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_brakelight.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_brakelight.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_control.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_control.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_engine.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_engine.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_joystick.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\swc_joystick.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_control.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_control.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_io.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_io.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_system.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\asw\tsk_system.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\adc.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\adc.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\derivate.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\global.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\pwm_rgb.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\bsw\pwm_rgb.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_compiler_gcc.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_hal_structs.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_hal_structs.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_irqstub.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_primitives.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_stdint.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_types.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_context.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_context.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_cpu.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_internal.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_irq.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_irq_cng_cont.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_nvic.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_system_timer.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_systick.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_utils.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_activate.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alcancel.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alget.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_algetbase.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alsetabs.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alsetrel.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_altick.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_api.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_as_internal.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_as_kernel.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_as_timing_prot.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_chaintas.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_evclear.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_evget.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_evset.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_evwait.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_force_schedule.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_getcountervalue.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_getelapsedvalue.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_gettaskid.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_gettaskstate.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_gnu_change_context_isr.s</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_gnu_irq_stack.s</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_gnu_multi_context.s</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_gnu_oo.s</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_internal.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_iparam.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_irq.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_irqendin.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_lockres.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_lookup.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_oo_api.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_oo_common.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_oo_inline.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_oo_internal.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_oo_intfunc.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_oo_irq.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_oo_kernel.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_os.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_rq_exchg.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_rq_first.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_rq_inser.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_rtdruid_versions.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_schedule.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_semgetvalue.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_sempost.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_semtrywait.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_semwait.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_shtdown.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_startos.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_terminat.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_thendin.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_tnterm.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_tracing.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_tstub.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_ulockallres.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_ulockres.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\eecfg.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\eecfg.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\event_definition.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ISR_definition.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\resource_priorities.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\task_priorities.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSAlarmsCounters.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSAlarmsCounters.Designer.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSAlarmsCounters.resx</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSControl.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSControl.Designer.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSControl.resx</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSCustomizer.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSEventsResources.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSEventsResources.Designer.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSEventsResources.resx</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSISRs.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSISRs.Designer.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSISRs.resx</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSParameters.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSTask.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSTask.Designer.cs</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\Custom\ErikaOSTask.resx</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\ErikaOS_v2_5_3.cysym</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\ErikaOS_v2_5_3.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\TopDesign</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_compiler_gcc.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_hal_structs.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_hal_structs.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_irqstub.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_primitives.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_stdint.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\common_ee_types.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_context.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_context.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_cpu.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_internal.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_irq.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_irq_cng_cont.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_nvic.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_system_timer.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_systick.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\cortex_mx_ee_utils.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee.h</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_activate.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alcancel.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alget.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_algetbase.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alsetabs.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_alsetrel.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_altick.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_api.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_as_internal.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_as_kernel.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_as_timing_prot.inc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_chaintas.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_evclear.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_evget.c</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3\API\ee_evset.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\adc.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_INT.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_IRQ.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_PM.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_theACLK.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_PWM_Engine.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_common_ee_hal_structs.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_cortex_mx_ee_context.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_cortex_mx_ee_system_timer.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_cortex_mx_ee_utils.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_activate.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alcancel.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alget.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_algetbase.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alsetabs.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alsetrel.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_altick.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_chaintas.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_evclear.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_evget.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_evset.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_evwait.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_force_schedule.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_getcountervalue.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_getelapsedvalue.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_gettaskid.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_gettaskstate.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_gnu_change_context_isr.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_gnu_irq_stack.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_gnu_multi_context.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_gnu_oo.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_iparam.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_irqendin.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_lockres.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_lookup.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_rq_exchg.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_rq_first.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_rq_inser.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_schedule.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_semgetvalue.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_sempost.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_semtrywait.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_semwait.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_shtdown.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_startos.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_terminat.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_thendin.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_tnterm.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_tstub.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_ulockallres.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_ulockres.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_eecfg.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_wdgButton.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Joystick_Pin_x.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Joystick_Pin_y.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_RedLed.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_RGB_Green.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_WDGButton.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Engine.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Engine_PM.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\pwm_rgb.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\rte.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sc_adc.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sc_adc_type.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sc_gpio.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sc_gpio_type.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sc_pwm.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sc_pwm_type.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sc_speed.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\sp_common.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\swc_brakelight.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\swc_control.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\swc_engine.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\swc_joystick.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\tsk_control.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\tsk_io.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\tsk_system.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\uart.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_Joystick.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_Joystick_BOOT.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_Joystick_INT.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_Joystick_IntClock.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_Joystick_PM.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\watchdog.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.elf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.hex</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.map</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.gpdsc</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal.rpt</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ElectronicGasPedal_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\adc.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_INT.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_IRQ.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_PM.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_JoyStick_theACLK.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_PWM_Engine.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_common_ee_hal_structs.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_cortex_mx_ee_context.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_cortex_mx_ee_system_timer.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_cortex_mx_ee_utils.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_activate.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alcancel.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alget.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_algetbase.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alsetabs.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_alsetrel.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_altick.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_chaintas.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_evclear.lst</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CortexM3\ARM_GCC_541\Debug\Listing Files\ErikaOS_ee_evget.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\PSoC 5LP Architecture TRM</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CY8C58LP Family Datasheet</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\System Reference Guides</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\System Reference Guides\cy_boot_v6_0</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ADC_SAR_v3_10.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_clock_v2_20.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_isr_v1_70.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_pins_v2_20</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\PWM_v3_30.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ElectronicGasPedal-000</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\PSoC 5LP Architecture TRM</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\CY8C58LP Family Datasheet</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\System Reference Guides</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\System Reference Guides\cy_boot_v6_0</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ADC_SAR_v3_10.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_clock_v2_20.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_isr_v1_70.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_pins_v2_20</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\ErikaOS_v2_5_3.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\PWM_v3_30.pdf</v>
+<v>ElectronicGasPedal-000\ElectronicGasPedal\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\source\asw\main.c" />
+<name v=".\source\bsw\watchdog.c" />
+<name v=".\source\rte\sc_speed_type.h" />
+<name v=".\source\asw\swc_joystick.c" />
+<name v=".\source\asw\swc_control.c" />
+<name v=".\source\rte\sc_adc_type.h" />
+<name v=".\source\rte\sc_adc_type.c" />
+<name v=".\source\asw\swc_brakelight.c" />
+<name v=".\ElectronicGasPedal.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1230, 543" SelectedTabbedMdiWindow="78efa7d8-5013-4c79-bb0f-f3df3b25e0ef"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="4fb0b5a9-4058-49dc-a760-5027ab790fe2" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\TopDesign\TopDesign.cysch" Guid="da990304-bb52-4a43-a511-6173e461eaa9" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\asw\main.c" Guid="63bf69ec-05c5-4c8e-99eb-039a60e5489f" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\bsw\watchdog.c" Guid="923c92df-601c-4f44-91e6-e6fd165562b7" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\rte\sc_speed_type.h" Guid="8bd8af17-bcf9-485f-818b-ac1ee64ab5a9" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\asw\swc_joystick.c" Guid="2fb66274-139d-40aa-aa56-b41d4b64e555" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\asw\swc_control.c" Guid="a14553df-26a9-4cef-bdd6-90fb0be0e59b" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\rte\sc_adc_type.h" Guid="d197cd61-2d85-444e-857a-a5373c0a7e22" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\rte\sc_adc_type.c" Guid="6e178674-a6a6-4560-b58a-c5a9def2790a" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\source\asw\swc_brakelight.c" Guid="054cf6c2-87cc-46ae-a1dc-e53abc6b0380" /><DocumentWindow Key="C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\ElectronicGasPedal.cydwr" Guid="78efa7d8-5013-4c79-bb0f-f3df3b25e0ef" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
