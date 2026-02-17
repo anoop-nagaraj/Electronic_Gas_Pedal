@@ -1,0 +1,1158 @@
+--------------- Rebuild Started: 05/31/2021 23:19:44 Project: ElectronicGasPedal, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\main.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\swc_brakelight.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\swc_control.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\swc_engine.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\swc_joystick.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\tsk_control.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\tsk_io.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\tsk_system.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\adc.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\pwm_rgb.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\uart.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\watchdog.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\rte.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sc_adc.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sc_adc_type.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sc_gpio.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sc_gpio_type.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sc_pwm.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sc_pwm_type.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sc_speed.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\sp_common.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\cymetadata.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\Cm3Start.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\CyBootAsmGnu.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\CyDmac.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\CyFlash.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\CyLib.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\cyPm.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\CySpc.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\cyutils.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\cy_em_eeprom.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\Joystick_Pin_x.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\Joystick_Pin_y.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\UART_Joystick.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\UART_Joystick_PM.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\UART_Joystick_INT.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\UART_Joystick_BOOT.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\UART_Joystick_IntClock.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\PWM_Engine.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\PWM_Engine_PM.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\Clock_PWM_Engine.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\Pin_RGB_Green.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\Pin_RedLed.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_INT.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_PM.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_IRQ.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_theACLK.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_activate.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alcancel.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alget.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_algetbase.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alsetabs.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alsetrel.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_altick.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_chaintas.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evclear.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evget.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evset.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evwait.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_force_schedule.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_getcountervalue.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_getelapsedvalue.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gettaskid.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gettaskstate.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_iparam.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_irqendin.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_lockres.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_lookup.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_exchg.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_first.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_inser.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_schedule.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semgetvalue.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_sempost.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semtrywait.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semwait.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_shtdown.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_startos.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_terminat.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_thendin.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_tnterm.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_tstub.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_ulockallres.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_ulockres.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_context.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_system_timer.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_utils.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_change_context_isr.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_irq_stack.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_multi_context.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_oo.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_common_ee_hal_structs.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ErikaOS_eecfg.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\Pin_WDGButton.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\isr_wdgButton.o"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.hex"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.elf"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.map"
+Deleting file ".\ElectronicGasPedal.cycdx"
+Deleting file ".\ElectronicGasPedal.svd"
+Deleting file ".\ElectronicGasPedal.rpt"
+Deleting file ".\ElectronicGasPedal_timing.html"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\.deps\SOURCE_C__ARM_GCC_GENERIC.P"
+Deleting file ".\CortexM3\ARM_GCC_541\Debug\.deps\SOURCE_ASM__ARM_GCC_GENERIC.P"
+cydsfit.exe -.appdatapath "C:\Users\aditi\AppData\Local\Cypress Semiconductor\PSoC Creator\4.4" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\ElectronicGasPedal.cyprj -d CY8C5888LTQ-LP097 -s C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\Generated_Source\PSoC5 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+HDL Generation...
+Synthesis...
+Tech Mapping...
+Analog Placement...
+Log: apr.M0058: The analog placement iterative improvement is 48% done. (App=cydsfit)
+Analog Routing...
+Analog Code Generation...
+Digital Placement...
+Digital Routing...
+Bitstream Generation...
+Bitstream Verification...
+Static timing analysis...
+API Generation...
+Dependency Generation...
+Cleanup...
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/main.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\main.c -o .\CortexM3\ARM_GCC_541\Debug\main.o
+In file included from source\asw\tsk_control.h:13:0,
+                 from source\asw\main.c:15:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\main.c:12:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from source\asw\tsk_control.h:13:0,
+                 from source\asw\main.c:15:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\main.c:12:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/swc_brakelight.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\swc_brakelight.c -o .\CortexM3\ARM_GCC_541\Debug\swc_brakelight.o
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_brakelight.c:9:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_brakelight.c:7:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_brakelight.c:9:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_brakelight.c:7:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+In file included from .\source\rte/sp_common.h:21:0,
+                 from source\asw\swc_brakelight.c:19:
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_setStatus':
+.\source\rte/sc_adc.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_set':
+.\source\rte/sc_adc.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:22:0,
+                 from source\asw\swc_brakelight.c:19:
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_setStatus':
+.\source\rte/sc_speed.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_set':
+.\source\rte/sc_speed.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:23:0,
+                 from source\asw\swc_brakelight.c:19:
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_setStatus':
+.\source\rte/sc_pwm.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_set':
+.\source\rte/sc_pwm.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:24:0,
+                 from source\asw\swc_brakelight.c:19:
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_setStatus':
+.\source\rte/sc_gpio.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_set':
+.\source\rte/sc_gpio.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/swc_control.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\swc_control.c -o .\CortexM3\ARM_GCC_541\Debug\swc_control.o
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_control.c:11:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_control.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_control.c:11:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_control.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+In file included from .\source\rte/sp_common.h:21:0,
+                 from source\asw\swc_control.c:19:
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_setStatus':
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/swc_engine.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\swc_engine.c -o .\CortexM3\ARM_GCC_541\Debug\swc_engine.o
+.\source\rte/sc_adc.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_set':
+.\source\rte/sc_adc.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:22:0,
+                 from source\asw\swc_control.c:19:
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_setStatus':
+.\source\rte/sc_speed.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_set':
+.\source\rte/sc_speed.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:23:0,
+                 from source\asw\swc_control.c:19:
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_setStatus':
+.\source\rte/sc_pwm.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_set':
+.\source\rte/sc_pwm.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:24:0,
+                 from source\asw\swc_control.c:19:
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_setStatus':
+.\source\rte/sc_gpio.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_set':
+.\source\rte/sc_gpio.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_engine.c:9:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_engine.c:7:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_engine.c:9:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_engine.c:7:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+In file included from .\source\rte/sp_common.h:21:0,
+                 from source\asw\swc_engine.c:18:
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_setStatus':
+.\source\rte/sc_adc.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_set':
+.\source\rte/sc_adc.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:22:0,
+                 from source\asw\swc_engine.c:18:
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_setStatus':
+.\source\rte/sc_speed.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_set':
+.\source\rte/sc_speed.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:23:0,
+                 from source\asw\swc_engine.c:18:
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_setStatus':
+.\source\rte/sc_pwm.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_set':
+.\source\rte/sc_pwm.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:24:0,
+                 from source\asw\swc_engine.c:18:
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_setStatus':
+.\source\rte/sc_gpio.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_set':
+.\source\rte/sc_gpio.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/swc_joystick.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\swc_joystick.c -o .\CortexM3\ARM_GCC_541\Debug\swc_joystick.o
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_joystick.c:11:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_joystick.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\swc_joystick.c:11:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\swc_joystick.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+In file included from .\source\rte/sp_common.h:21:0,
+                 from source\asw\swc_joystick.c:22:
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_setStatus':
+.\source\rte/sc_adc.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_set':
+.\source\rte/sc_adc.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:22:0,
+                 from source\asw\swc_joystick.c:22:
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_setStatus':
+.\source\rte/sc_speed.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_set':
+.\source\rte/sc_speed.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:23:0,
+                 from source\asw\swc_joystick.c:22:
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_setStatus':
+.\source\rte/sc_pwm.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_set':
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/tsk_control.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\tsk_control.c -o .\CortexM3\ARM_GCC_541\Debug\tsk_control.o
+.\source\rte/sc_pwm.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:24:0,
+                 from source\asw\swc_joystick.c:22:
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_setStatus':
+.\source\rte/sc_gpio.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_set':
+.\source\rte/sc_gpio.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\tsk_control.c:11:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\tsk_control.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\tsk_control.c:11:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\tsk_control.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/tsk_io.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\tsk_io.c -o .\CortexM3\ARM_GCC_541\Debug\tsk_io.o
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\tsk_io.c:11:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\tsk_io.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\tsk_io.c:11:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\tsk_io.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/tsk_system.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\tsk_system.c -o .\CortexM3\ARM_GCC_541\Debug\tsk_system.o
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\tsk_system.c:11:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\tsk_system.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from .\source\rte/rte.h:82:0,
+                 from source\asw\tsk_system.c:11:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\asw\tsk_system.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+In file included from .\source\rte/sp_common.h:21:0,
+                 from source\asw\tsk_system.c:18:
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_setStatus':
+.\source\rte/sc_adc.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_adc.h: In function 'RTE_SC_ADC_set':
+.\source\rte/sc_adc.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:22:0,
+                 from source\asw\tsk_system.c:18:
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_setStatus':
+.\source\rte/sc_speed.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_speed.h: In function 'RTE_SC_SPEED_set':
+.\source\rte/sc_speed.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:23:0,
+                 from source\asw\tsk_system.c:18:
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_setStatus':
+.\source\rte/sc_pwm.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_pwm.h: In function 'RTE_SC_PWM_set':
+.\source\rte/sc_pwm.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from .\source\rte/sp_common.h:24:0,
+                 from source\asw\tsk_system.c:18:
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_setStatus':
+.\source\rte/sc_gpio.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+.\source\rte/sc_gpio.h: In function 'RTE_SC_GPIO_set':
+.\source\rte/sc_gpio.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/adc.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\bsw\adc.c -o .\CortexM3\ARM_GCC_541\Debug\adc.o
+In file included from Generated_Source\PSoC5/ADC_JoyStick.h:22:0,
+                 from source\bsw\adc.h:20,
+                 from source\bsw\adc.c:23:
+Generated_Source\PSoC5/cytypes.h:1376:0: warning: "LO8" redefined
+ #define LO8(x)                  ((uint8) ((x) & 0xFFu))
+ ^
+In file included from source\bsw\adc.h:17:0,
+                 from source\bsw\adc.c:23:
+source\bsw\global.h:306:0: note: this is the location of the previous definition
+  # define LO8(x)   ((uint8_t) ((x) & 0xFFu))
+ ^
+In file included from Generated_Source\PSoC5/ADC_JoyStick.h:22:0,
+                 from source\bsw\adc.h:20,
+                 from source\bsw\adc.c:23:
+Generated_Source\PSoC5/cytypes.h:1377:0: warning: "HI8" redefined
+ #define HI8(x)                  ((uint8) ((uint16)(x) >> 8))
+ ^
+In file included from source\bsw\adc.h:17:0,
+                 from source\bsw\adc.c:23:
+source\bsw\global.h:311:0: note: this is the location of the previous definition
+  # define HI8(x)   ((uint8_t) ((uint16_t)(x) >> 8))
+ ^
+In file included from Generated_Source\PSoC5/ADC_JoyStick.h:22:0,
+                 from source\bsw\adc.h:20,
+                 from source\bsw\adc.c:23:
+Generated_Source\PSoC5/cytypes.h:1380:0: warning: "LO16" redefined
+ #define LO16(x)                 ((uint16) ((x) & 0xFFFFu))
+ ^
+In file included from source\bsw\adc.h:17:0,
+                 from source\bsw\adc.c:23:
+source\bsw\global.h:316:0: note: this is the location of the previous definition
+  # define LO16(x)   ((uint16_t) ((x) & 0xFFFFu))
+ ^
+In file included from Generated_Source\PSoC5/ADC_JoyStick.h:22:0,
+                 from source\bsw\adc.h:20,
+                 from source\bsw\adc.c:23:
+Generated_Source\PSoC5/cytypes.h:1381:0: warning: "HI16" redefined
+ #define HI16(x)                 ((uint16) ((uint32)(x) >> 16))
+ ^
+In file included from source\bsw\adc.h:17:0,
+                 from source\bsw\adc.c:23:
+source\bsw\global.h:321:0: note: this is the location of the previous definition
+  # define HI16(x)   ((uint16_t) ((uint32_t)(x) >> 16))
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/pwm_rgb.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\bsw\pwm_rgb.c -o .\CortexM3\ARM_GCC_541\Debug\pwm_rgb.o
+In file included from Generated_Source\PSoC5/PWM_Engine.h:22:0,
+                 from source\bsw\pwm_rgb.c:24:
+Generated_Source\PSoC5/cytypes.h:1376:0: warning: "LO8" redefined
+ #define LO8(x)                  ((uint8) ((x) & 0xFFu))
+ ^
+In file included from source\bsw\pwm_rgb.h:19:0,
+                 from source\bsw\pwm_rgb.c:23:
+source\bsw\global.h:306:0: note: this is the location of the previous definition
+  # define LO8(x)   ((uint8_t) ((x) & 0xFFu))
+ ^
+In file included from Generated_Source\PSoC5/PWM_Engine.h:22:0,
+                 from source\bsw\pwm_rgb.c:24:
+Generated_Source\PSoC5/cytypes.h:1377:0: warning: "HI8" redefined
+ #define HI8(x)                  ((uint8) ((uint16)(x) >> 8))
+ ^
+In file included from source\bsw\pwm_rgb.h:19:0,
+                 from source\bsw\pwm_rgb.c:23:
+source\bsw\global.h:311:0: note: this is the location of the previous definition
+  # define HI8(x)   ((uint8_t) ((uint16_t)(x) >> 8))
+ ^
+In file included from Generated_Source\PSoC5/PWM_Engine.h:22:0,
+                 from source\bsw\pwm_rgb.c:24:
+Generated_Source\PSoC5/cytypes.h:1380:0: warning: "LO16" redefined
+ #define LO16(x)                 ((uint16) ((x) & 0xFFFFu))
+ ^
+In file included from source\bsw\pwm_rgb.h:19:0,
+                 from source\bsw\pwm_rgb.c:23:
+source\bsw\global.h:316:0: note: this is the location of the previous definition
+  # define LO16(x)   ((uint16_t) ((x) & 0xFFFFu))
+ ^
+In file included from Generated_Source\PSoC5/PWM_Engine.h:22:0,
+                 from source\bsw\pwm_rgb.c:24:
+Generated_Source\PSoC5/cytypes.h:1381:0: warning: "HI16" redefined
+ #define HI16(x)                 ((uint16) ((uint32)(x) >> 16))
+ ^
+In file included from source\bsw\pwm_rgb.h:19:0,
+                 from source\bsw\pwm_rgb.c:23:
+source\bsw\global.h:321:0: note: this is the location of the previous definition
+  # define HI16(x)   ((uint16_t) ((uint32_t)(x) >> 16))
+ ^
+source\bsw\pwm_rgb.c: In function 'PWM_RGB_init':
+source\bsw\pwm_rgb.c:83:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+source\bsw\pwm_rgb.c: In function 'PWM_Green_setIntensity':
+source\bsw\pwm_rgb.c:93:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/uart.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\bsw\uart.c -o .\CortexM3\ARM_GCC_541\Debug\uart.o
+In file included from Generated_Source\PSoC5/UART_Joystick.h:23:0,
+                 from source\bsw\uart.h:20,
+                 from source\bsw\uart.c:23:
+Generated_Source\PSoC5/cytypes.h:1376:0: warning: "LO8" redefined
+ #define LO8(x)                  ((uint8) ((x) & 0xFFu))
+ ^
+In file included from source\bsw\uart.h:17:0,
+                 from source\bsw\uart.c:23:
+source\bsw\global.h:306:0: note: this is the location of the previous definition
+  # define LO8(x)   ((uint8_t) ((x) & 0xFFu))
+ ^
+In file included from Generated_Source\PSoC5/UART_Joystick.h:23:0,
+                 from source\bsw\uart.h:20,
+                 from source\bsw\uart.c:23:
+Generated_Source\PSoC5/cytypes.h:1377:0: warning: "HI8" redefined
+ #define HI8(x)                  ((uint8) ((uint16)(x) >> 8))
+ ^
+In file included from source\bsw\uart.h:17:0,
+                 from source\bsw\uart.c:23:
+source\bsw\global.h:311:0: note: this is the location of the previous definition
+  # define HI8(x)   ((uint8_t) ((uint16_t)(x) >> 8))
+ ^
+In file included from Generated_Source\PSoC5/UART_Joystick.h:23:0,
+                 from source\bsw\uart.h:20,
+                 from source\bsw\uart.c:23:
+Generated_Source\PSoC5/cytypes.h:1380:0: warning: "LO16" redefined
+ #define LO16(x)                 ((uint16) ((x) & 0xFFFFu))
+ ^
+In file included from source\bsw\uart.h:17:0,
+                 from source\bsw\uart.c:23:
+source\bsw\global.h:316:0: note: this is the location of the previous definition
+  # define LO16(x)   ((uint16_t) ((x) & 0xFFFFu))
+ ^
+In file included from Generated_Source\PSoC5/UART_Joystick.h:23:0,
+                 from source\bsw\uart.h:20,
+                 from source\bsw\uart.c:23:
+Generated_Source\PSoC5/cytypes.h:1381:0: warning: "HI16" redefined
+ #define HI16(x)                 ((uint16) ((uint32)(x) >> 16))
+ ^
+In file included from source\bsw\uart.h:17:0,
+                 from source\bsw\uart.c:23:
+source\bsw\global.h:321:0: note: this is the location of the previous definition
+  # define HI16(x)   ((uint16_t) ((uint32_t)(x) >> 16))
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/watchdog.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\bsw\watchdog.c -o .\CortexM3\ARM_GCC_541\Debug\watchdog.o
+In file included from Generated_Source\PSoC5/CyLib.h:26:0,
+                 from source\bsw\watchdog.c:24:
+Generated_Source\PSoC5/cytypes.h:1376:0: warning: "LO8" redefined
+ #define LO8(x)                  ((uint8) ((x) & 0xFFu))
+ ^
+In file included from source\bsw\watchdog.h:16:0,
+                 from source\bsw\watchdog.c:23:
+source\bsw\global.h:306:0: note: this is the location of the previous definition
+  # define LO8(x)   ((uint8_t) ((x) & 0xFFu))
+ ^
+In file included from Generated_Source\PSoC5/CyLib.h:26:0,
+                 from source\bsw\watchdog.c:24:
+Generated_Source\PSoC5/cytypes.h:1377:0: warning: "HI8" redefined
+ #define HI8(x)                  ((uint8) ((uint16)(x) >> 8))
+ ^
+In file included from source\bsw\watchdog.h:16:0,
+                 from source\bsw\watchdog.c:23:
+source\bsw\global.h:311:0: note: this is the location of the previous definition
+  # define HI8(x)   ((uint8_t) ((uint16_t)(x) >> 8))
+ ^
+In file included from Generated_Source\PSoC5/CyLib.h:26:0,
+                 from source\bsw\watchdog.c:24:
+Generated_Source\PSoC5/cytypes.h:1380:0: warning: "LO16" redefined
+ #define LO16(x)                 ((uint16) ((x) & 0xFFFFu))
+ ^
+In file included from source\bsw\watchdog.h:16:0,
+                 from source\bsw\watchdog.c:23:
+source\bsw\global.h:316:0: note: this is the location of the previous definition
+  # define LO16(x)   ((uint16_t) ((x) & 0xFFFFu))
+ ^
+In file included from Generated_Source\PSoC5/CyLib.h:26:0,
+                 from source\bsw\watchdog.c:24:
+Generated_Source\PSoC5/cytypes.h:1381:0: warning: "HI16" redefined
+ #define HI16(x)                 ((uint16) ((uint32)(x) >> 16))
+ ^
+In file included from source\bsw\watchdog.h:16:0,
+                 from source\bsw\watchdog.c:23:
+source\bsw\global.h:321:0: note: this is the location of the previous definition
+  # define HI16(x)   ((uint16_t) ((uint32_t)(x) >> 16))
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/rte.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\rte.c -o .\CortexM3\ARM_GCC_541\Debug\rte.o
+In file included from Generated_Source\PSoC5/cyfitter_cfg.h:20:0,
+                 from Generated_Source\PSoC5/project.h:17,
+                 from source\rte\rte.h:81,
+                 from source\rte\rte.c:23:
+Generated_Source\PSoC5/cytypes.h:1376:0: warning: "LO8" redefined
+ #define LO8(x)                  ((uint8) ((x) & 0xFFu))
+ ^
+In file included from source\rte\rte.h:80:0,
+                 from source\rte\rte.c:23:
+.\source\bsw/global.h:306:0: note: this is the location of the previous definition
+  # define LO8(x)   ((uint8_t) ((x) & 0xFFu))
+ ^
+In file included from Generated_Source\PSoC5/cyfitter_cfg.h:20:0,
+                 from Generated_Source\PSoC5/project.h:17,
+                 from source\rte\rte.h:81,
+                 from source\rte\rte.c:23:
+Generated_Source\PSoC5/cytypes.h:1377:0: warning: "HI8" redefined
+ #define HI8(x)                  ((uint8) ((uint16)(x) >> 8))
+ ^
+In file included from source\rte\rte.h:80:0,
+                 from source\rte\rte.c:23:
+.\source\bsw/global.h:311:0: note: this is the location of the previous definition
+  # define HI8(x)   ((uint8_t) ((uint16_t)(x) >> 8))
+ ^
+In file included from Generated_Source\PSoC5/cyfitter_cfg.h:20:0,
+                 from Generated_Source\PSoC5/project.h:17,
+                 from source\rte\rte.h:81,
+                 from source\rte\rte.c:23:
+Generated_Source\PSoC5/cytypes.h:1380:0: warning: "LO16" redefined
+ #define LO16(x)                 ((uint16) ((x) & 0xFFFFu))
+ ^
+In file included from source\rte\rte.h:80:0,
+                 from source\rte\rte.c:23:
+.\source\bsw/global.h:316:0: note: this is the location of the previous definition
+  # define LO16(x)   ((uint16_t) ((x) & 0xFFFFu))
+ ^
+In file included from Generated_Source\PSoC5/cyfitter_cfg.h:20:0,
+                 from Generated_Source\PSoC5/project.h:17,
+                 from source\rte\rte.h:81,
+                 from source\rte\rte.c:23:
+Generated_Source\PSoC5/cytypes.h:1381:0: warning: "HI16" redefined
+ #define HI16(x)                 ((uint16) ((uint32)(x) >> 16))
+ ^
+In file included from source\rte\rte.h:80:0,
+                 from source\rte\rte.c:23:
+.\source\bsw/global.h:321:0: note: this is the location of the previous definition
+  # define HI16(x)   ((uint16_t) ((uint32_t)(x) >> 16))
+ ^
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\rte.c:23:
+source\rte\rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\rte.h:81,
+                 from source\rte\rte.c:23:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\rte.c:23:
+source\rte\rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\rte.h:81,
+                 from source\rte\rte.c:23:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+source\rte\rte.c: In function 'RTE_ProcessCyclicTable':
+source\rte\rte.c:71:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+source\rte\rte.c: In function 'RTE_ProcessEventTable':
+source\rte\rte.c:92:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sc_adc.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sc_adc.c -o .\CortexM3\ARM_GCC_541\Debug\sc_adc.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sc_adc_type.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sc_adc_type.c -o .\CortexM3\ARM_GCC_541\Debug\sc_adc_type.o
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sc_adc_type.c:11:
+source\rte\rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sc_adc_type.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sc_adc_type.c:11:
+source\rte\rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sc_adc_type.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sc_gpio.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sc_gpio.c -o .\CortexM3\ARM_GCC_541\Debug\sc_gpio.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sc_gpio_type.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sc_gpio_type.c -o .\CortexM3\ARM_GCC_541\Debug\sc_gpio_type.o
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sc_gpio_type.c:11:
+source\rte\rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sc_gpio_type.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sc_gpio_type.c:11:
+source\rte\rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sc_gpio_type.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sc_pwm.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sc_pwm.c -o .\CortexM3\ARM_GCC_541\Debug\sc_pwm.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sc_pwm_type.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sc_pwm_type.c -o .\CortexM3\ARM_GCC_541\Debug\sc_pwm_type.o
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sc_pwm_type.c:11:
+source\rte\rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sc_pwm_type.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sc_pwm_type.c:11:
+source\rte\rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sc_pwm_type.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+In file included from source\rte\sp_common.h:21:0,
+                 from source\rte\sc_pwm_type.c:14:
+source\rte\sc_adc.h: In function 'RTE_SC_ADC_setStatus':
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sc_speed.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sc_speed.c -o .\CortexM3\ARM_GCC_541\Debug\sc_speed.o
+source\rte\sc_adc.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_adc.h: In function 'RTE_SC_ADC_set':
+source\rte\sc_adc.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from source\rte\sp_common.h:22:0,
+                 from source\rte\sc_pwm_type.c:14:
+source\rte\sc_speed.h: In function 'RTE_SC_SPEED_setStatus':
+source\rte\sc_speed.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_speed.h: In function 'RTE_SC_SPEED_set':
+source\rte\sc_speed.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from source\rte\sp_common.h:23:0,
+                 from source\rte\sc_pwm_type.c:14:
+source\rte\sc_pwm.h: In function 'RTE_SC_PWM_setStatus':
+source\rte\sc_pwm.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_pwm.h: In function 'RTE_SC_PWM_set':
+source\rte\sc_pwm.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from source\rte\sp_common.h:24:0,
+                 from source\rte\sc_pwm_type.c:14:
+source\rte\sc_gpio.h: In function 'RTE_SC_GPIO_setStatus':
+source\rte\sc_gpio.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_gpio.h: In function 'RTE_SC_GPIO_set':
+source\rte\sc_gpio.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/sp_common.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\rte\sp_common.c -o .\CortexM3\ARM_GCC_541\Debug\sp_common.o
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sp_common.c:11:
+source\rte\rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sp_common.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from source\rte\rte.h:82:0,
+                 from source\rte\sp_common.c:11:
+source\rte\rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:22,
+                 from source\rte\sp_common.c:9:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+In file included from source\rte\sp_common.h:21:0,
+                 from source\rte\sp_common.c:13:
+source\rte\sc_adc.h: In function 'RTE_SC_ADC_setStatus':
+source\rte\sc_adc.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_adc.h: In function 'RTE_SC_ADC_set':
+source\rte\sc_adc.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from source\rte\sp_common.h:22:0,
+                 from source\rte\sp_common.c:13:
+source\rte\sc_speed.h: In function 'RTE_SC_SPEED_setStatus':
+source\rte\sc_speed.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_speed.h: In function 'RTE_SC_SPEED_set':
+source\rte\sc_speed.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from source\rte\sp_common.h:23:0,
+                 from source\rte\sp_common.c:13:
+source\rte\sc_pwm.h: In function 'RTE_SC_PWM_setStatus':
+source\rte\sc_pwm.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_pwm.h: In function 'RTE_SC_PWM_set':
+source\rte\sc_pwm.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+In file included from source\rte\sp_common.h:24:0,
+                 from source\rte\sp_common.c:13:
+source\rte\sc_gpio.h: In function 'RTE_SC_GPIO_setStatus':
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/cyfitter_cfg.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\cyfitter_cfg.c -o .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+source\rte\sc_gpio.h:211:11: warning: comparison between pointer and integer
+   if (NULL!=signal->pSigCfg->evOnError && NULL != pTaskArray){
+           ^
+source\rte\sc_gpio.h: In function 'RTE_SC_GPIO_set':
+source\rte\sc_gpio.h:313:12: warning: comparison between pointer and integer
+    if (NULL!=signal->pSigCfg->evOnUpdate && NULL != pTaskArray){
+            ^
+source\rte\sp_common.c: At top level:
+source\rte\sp_common.c:59:30: warning: initialization discards 'const' qualifier from pointer target type [-Wdiscarded-array-qualifiers]
+    /* task list onUpdate */  &so_joystick_updTasks,
+                              ^
+source\rte\sp_common.c:64:30: warning: initialization makes integer from pointer without a cast [-Wint-conversion]
+    /* resource           */  NULL,
+                              ^
+source\rte\sp_common.c:64:30: note: (near initialization for 'SO_JOYSTICK_cfg.resource')
+source\rte\sp_common.c:106:30: warning: initialization discards 'const' qualifier from pointer target type [-Wdiscarded-array-qualifiers]
+    /* task list onUpdate */  &so_speed_updTasks,
+                              ^
+source\rte\sp_common.c:111:30: warning: initialization makes integer from pointer without a cast [-Wint-conversion]
+    /* resource           */  NULL,
+                              ^
+source\rte\sp_common.c:111:30: note: (near initialization for 'SO_SPEED_cfg.resource')
+source\rte\sp_common.c:155:30: warning: initialization makes integer from pointer without a cast [-Wint-conversion]
+    /* resource           */  NULL,
+                              ^
+source\rte\sp_common.c:155:30: note: (near initialization for 'SO_ENGINE_cfg.resource')
+source\rte\sp_common.c:199:30: warning: initialization makes integer from pointer without a cast [-Wint-conversion]
+    /* resource           */  NULL,
+                              ^
+source\rte\sp_common.c:199:30: note: (near initialization for 'SO_BRAKELIGHT_cfg.resource')
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/cymetadata.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\cymetadata.c -o .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/Cm3Start.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\Cm3Start.c -o .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/CyDmac.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\CyDmac.c -o .\CortexM3\ARM_GCC_541\Debug\CyDmac.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/CyFlash.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\CyFlash.c -o .\CortexM3\ARM_GCC_541\Debug\CyFlash.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/CyLib.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\CyLib.c -o .\CortexM3\ARM_GCC_541\Debug\CyLib.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/cyPm.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\cyPm.c -o .\CortexM3\ARM_GCC_541\Debug\cyPm.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/CySpc.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\CySpc.c -o .\CortexM3\ARM_GCC_541\Debug\CySpc.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/cyutils.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\cyutils.c -o .\CortexM3\ARM_GCC_541\Debug\cyutils.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/cy_em_eeprom.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\cy_em_eeprom.c -o .\CortexM3\ARM_GCC_541\Debug\cy_em_eeprom.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/Joystick_Pin_x.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\Joystick_Pin_x.c -o .\CortexM3\ARM_GCC_541\Debug\Joystick_Pin_x.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/Joystick_Pin_y.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\Joystick_Pin_y.c -o .\CortexM3\ARM_GCC_541\Debug\Joystick_Pin_y.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/UART_Joystick.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\UART_Joystick.c -o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/UART_Joystick_PM.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\UART_Joystick_PM.c -o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/UART_Joystick_INT.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\UART_Joystick_INT.c -o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_INT.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/UART_Joystick_BOOT.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\UART_Joystick_BOOT.c -o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_BOOT.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/UART_Joystick_IntClock.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\UART_Joystick_IntClock.c -o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_IntClock.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/PWM_Engine.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\PWM_Engine.c -o .\CortexM3\ARM_GCC_541\Debug\PWM_Engine.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/PWM_Engine_PM.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\PWM_Engine_PM.c -o .\CortexM3\ARM_GCC_541\Debug\PWM_Engine_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/Clock_PWM_Engine.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\Clock_PWM_Engine.c -o .\CortexM3\ARM_GCC_541\Debug\Clock_PWM_Engine.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/Pin_RGB_Green.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\Pin_RGB_Green.c -o .\CortexM3\ARM_GCC_541\Debug\Pin_RGB_Green.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/Pin_RedLed.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\Pin_RedLed.c -o .\CortexM3\ARM_GCC_541\Debug\Pin_RedLed.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ADC_JoyStick.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ADC_JoyStick.c -o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ADC_JoyStick_INT.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ADC_JoyStick_INT.c -o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_INT.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ADC_JoyStick_PM.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ADC_JoyStick_PM.c -o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ADC_JoyStick_IRQ.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ADC_JoyStick_IRQ.c -o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_IRQ.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ADC_JoyStick_theACLK.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ADC_JoyStick_theACLK.c -o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_theACLK.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_activate.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_activate.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_activate.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_alcancel.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_alcancel.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alcancel.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_alget.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_alget.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alget.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_algetbase.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_algetbase.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_algetbase.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_alsetabs.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_alsetabs.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alsetabs.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_alsetrel.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_alsetrel.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alsetrel.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_altick.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_altick.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_altick.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_chaintas.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_chaintas.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_chaintas.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_evclear.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_evclear.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evclear.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_evget.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_evget.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evget.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_evset.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_evset.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evset.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_evwait.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_evwait.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evwait.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_force_schedule.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_force_schedule.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_force_schedule.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_getcountervalue.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_getcountervalue.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_getcountervalue.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_getelapsedvalue.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_getelapsedvalue.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_getelapsedvalue.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_gettaskid.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_gettaskid.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gettaskid.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_gettaskstate.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_gettaskstate.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gettaskstate.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_iparam.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_iparam.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_iparam.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_irqendin.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_irqendin.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_irqendin.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_lockres.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_lockres.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_lockres.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_lookup.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_lookup.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_lookup.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_rq_exchg.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_rq_exchg.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_exchg.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_rq_first.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_rq_first.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_first.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_rq_inser.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_rq_inser.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_inser.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_schedule.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_schedule.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_schedule.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_semgetvalue.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_semgetvalue.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semgetvalue.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_sempost.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_sempost.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_sempost.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_semtrywait.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_semtrywait.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semtrywait.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_semwait.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_semwait.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semwait.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_shtdown.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_shtdown.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_shtdown.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_startos.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_startos.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_startos.o
+In file included from Generated_Source\PSoC5\ErikaOS_ee_startos.c:332:0:
+Generated_Source\PSoC5\ErikaOS_ee_startos.c: In function 'EE_oo_StartOS':
+Generated_Source\PSoC5\CyLib.h:59:15: warning: unused variable 'cydelay_32k_ms' [-Wunused-variable]
+ extern uint32 cydelay_32k_ms;
+               ^
+Generated_Source\PSoC5\CyLib.h:58:15: warning: unused variable 'cydelay_freq_mhz' [-Wunused-variable]
+ extern uint8  cydelay_freq_mhz;
+               ^
+Generated_Source\PSoC5\CyLib.h:57:15: warning: unused variable 'cydelay_freq_khz' [-Wunused-variable]
+ extern uint32 cydelay_freq_khz;
+               ^
+Generated_Source\PSoC5\CyLib.h:56:15: warning: unused variable 'cydelay_freq_hz' [-Wunused-variable]
+ extern uint32 cydelay_freq_hz;
+               ^
+Generated_Source\PSoC5\CyLib.h:44:22: warning: unused variable 'CyResetStatus' [-Wunused-variable]
+ extern uint8 CYXDATA CyResetStatus;
+                      ^
+In file included from Generated_Source\PSoC5\cyPm.h:25:0,
+                 from Generated_Source\PSoC5\CyLib.h:29,
+                 from Generated_Source\PSoC5\ErikaOS_ee_startos.c:332:
+Generated_Source\PSoC5\CyFlash.h:28:14: warning: unused variable 'dieTemperature' [-Wunused-variable]
+ extern uint8 dieTemperature[CY_FLASH_DIE_TEMP_DATA_SIZE];
+              ^
+In file included from Generated_Source\PSoC5\CyFlash.h:24:0,
+                 from Generated_Source\PSoC5\cyPm.h:25,
+                 from Generated_Source\PSoC5\CyLib.h:29,
+                 from Generated_Source\PSoC5\ErikaOS_ee_startos.c:332:
+Generated_Source\PSoC5\CySpc.h:28:14: warning: unused variable 'SpcLockState' [-Wunused-variable]
+ extern uint8 SpcLockState;
+              ^
+In file included from Generated_Source\PSoC5\CyLib.h:26:0,
+                 from Generated_Source\PSoC5\ErikaOS_ee_startos.c:332:
+Generated_Source\PSoC5\cytypes.h:491:25: warning: typedef 'int8' locally defined but not used [-Wunused-local-typedefs]
+ typedef signed   char   int8;
+                         ^
+Generated_Source\PSoC5\cytypes.h:492:25: warning: typedef 'int16' locally defined but not used [-Wunused-local-typedefs]
+ typedef signed   short  int16;
+                         ^
+Generated_Source\PSoC5\cytypes.h:493:25: warning: typedef 'int32' locally defined but not used [-Wunused-local-typedefs]
+ typedef signed   long   int32;
+                         ^
+Generated_Source\PSoC5\cytypes.h:494:25: warning: typedef 'float32' locally defined but not used [-Wunused-local-typedefs]
+ typedef          float  float32;
+                         ^
+Generated_Source\PSoC5\cytypes.h:498:34: warning: typedef 'float64' locally defined but not used [-Wunused-local-typedefs]
+     typedef               double float64;
+                                  ^
+Generated_Source\PSoC5\cytypes.h:499:34: warning: typedef 'int64' locally defined but not used [-Wunused-local-typedefs]
+     typedef          long long   int64;
+                                  ^
+Generated_Source\PSoC5\cytypes.h:500:34: warning: typedef 'uint64' locally defined but not used [-Wunused-local-typedefs]
+     typedef unsigned long long   uint64;
+                                  ^
+Generated_Source\PSoC5\cytypes.h:505:25: warning: typedef 'char8' locally defined but not used [-Wunused-local-typedefs]
+ typedef          char   char8;
+                         ^
+Generated_Source\PSoC5\cytypes.h:658:33: warning: typedef 'reg8' locally defined but not used [-Wunused-local-typedefs]
+ typedef volatile uint8  CYXDATA reg8;
+                                 ^
+Generated_Source\PSoC5\cytypes.h:659:33: warning: typedef 'reg16' locally defined but not used [-Wunused-local-typedefs]
+ typedef volatile uint16 CYXDATA reg16;
+                                 ^
+Generated_Source\PSoC5\cytypes.h:660:33: warning: typedef 'reg32' locally defined but not used [-Wunused-local-typedefs]
+ typedef volatile uint32 CYXDATA reg32;
+                                 ^
+In file included from Generated_Source\PSoC5\CyLib.h:29:0,
+                 from Generated_Source\PSoC5\ErikaOS_ee_startos.c:332:
+Generated_Source\PSoC5\cyPm.h:267:3: warning: typedef 'CY_PM_CLOCK_BACKUP_STRUCT' locally defined but not used [-Wunused-local-typedefs]
+ } CY_PM_CLOCK_BACKUP_STRUCT;
+   ^
+Generated_Source\PSoC5\cyPm.h:315:3: warning: typedef 'CY_PM_BACKUP_STRUCT' locally defined but not used [-Wunused-local-typedefs]
+ } CY_PM_BACKUP_STRUCT;
+   ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_terminat.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_terminat.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_terminat.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_thendin.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_thendin.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_thendin.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_tnterm.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_tnterm.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_tnterm.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_tstub.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_tstub.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_tstub.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_ulockallres.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_ulockallres.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_ulockallres.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_ulockres.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_ee_ulockres.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_ulockres.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_cortex_mx_ee_context.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_cortex_mx_ee_context.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_context.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_cortex_mx_ee_system_timer.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_cortex_mx_ee_system_timer.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_system_timer.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_cortex_mx_ee_utils.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_cortex_mx_ee_utils.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_utils.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_common_ee_hal_structs.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_common_ee_hal_structs.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_common_ee_hal_structs.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_eecfg.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\ErikaOS_eecfg.c -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_eecfg.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/Pin_WDGButton.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\Pin_WDGButton.c -o .\CortexM3\ARM_GCC_541\Debug\Pin_WDGButton.o
+Generated_Source\PSoC5\ErikaOS_eecfg.c:1943:62: warning: initialization from incompatible pointer type [-Wincompatible-pointer-types]
+         { (EE_OO_AUTOSTART_TASK_MODE_OSDEFAULTAPPMODE_SIZE), EE_oo_autostart_task_mode_OSDEFAULTAPPMODE}
+                                                              ^
+Generated_Source\PSoC5\ErikaOS_eecfg.c:1943:62: note: (near initialization for 'EE_oo_autostart_task_data[0].task')
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/isr_wdgButton.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c Generated_Source\PSoC5\isr_wdgButton.c -o .\CortexM3\ARM_GCC_541\Debug\isr_wdgButton.o
+arm-none-eabi-as.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -alh=.\CortexM3\ARM_GCC_541\Debug/CyBootAsmGnu.lst -g -W -o .\CortexM3\ARM_GCC_541\Debug\CyBootAsmGnu.o Generated_Source\PSoC5\CyBootAsmGnu.s
+arm-none-eabi-as.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_gnu_change_context_isr.lst -g -W -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_change_context_isr.o Generated_Source\PSoC5\ErikaOS_ee_gnu_change_context_isr.s
+arm-none-eabi-as.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_gnu_irq_stack.lst -g -W -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_irq_stack.o Generated_Source\PSoC5\ErikaOS_ee_gnu_irq_stack.s
+arm-none-eabi-as.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_gnu_multi_context.lst -g -W -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_multi_context.o Generated_Source\PSoC5\ErikaOS_ee_gnu_multi_context.s
+arm-none-eabi-as.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -alh=.\CortexM3\ARM_GCC_541\Debug/ErikaOS_ee_gnu_oo.lst -g -W -o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_oo.o Generated_Source\PSoC5\ErikaOS_ee_gnu_oo.s
+arm-none-eabi-ar.exe -rs .\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.a .\CortexM3\ARM_GCC_541\Debug\CyDmac.o .\CortexM3\ARM_GCC_541\Debug\CyFlash.o .\CortexM3\ARM_GCC_541\Debug\CyLib.o .\CortexM3\ARM_GCC_541\Debug\cyPm.o .\CortexM3\ARM_GCC_541\Debug\CySpc.o .\CortexM3\ARM_GCC_541\Debug\cyutils.o .\CortexM3\ARM_GCC_541\Debug\cy_em_eeprom.o .\CortexM3\ARM_GCC_541\Debug\Joystick_Pin_x.o .\CortexM3\ARM_GCC_541\Debug\Joystick_Pin_y.o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick.o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_PM.o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_INT.o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_BOOT.o .\CortexM3\ARM_GCC_541\Debug\UART_Joystick_IntClock.o .\CortexM3\ARM_GCC_541\Debug\PWM_Engine.o .\CortexM3\ARM_GCC_541\Debug\PWM_Engine_PM.o .\CortexM3\ARM_GCC_541\Debug\Clock_PWM_Engine.o .\CortexM3\ARM_GCC_541\Debug\Pin_RGB_Green.o .\CortexM3\ARM_GCC_541\Debug\Pin_RedLed.o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick.o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_INT.o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_PM.o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_IRQ.o .\CortexM3\ARM_GCC_541\Debug\ADC_JoyStick_theACLK.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_activate.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alcancel.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alget.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_algetbase.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alsetabs.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_alsetrel.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_altick.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_chaintas.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evclear.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evget.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evset.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_evwait.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_force_schedule.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_getcountervalue.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_getelapsedvalue.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gettaskid.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gettaskstate.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_iparam.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_irqendin.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_lockres.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_lookup.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_exchg.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_first.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_rq_inser.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_schedule.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semgetvalue.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_sempost.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semtrywait.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_semwait.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_shtdown.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_startos.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_terminat.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_thendin.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_tnterm.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_tstub.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_ulockallres.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_ulockres.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_context.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_system_timer.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_cortex_mx_ee_utils.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_common_ee_hal_structs.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_eecfg.o .\CortexM3\ARM_GCC_541\Debug\Pin_WDGButton.o .\CortexM3\ARM_GCC_541\Debug\isr_wdgButton.o .\CortexM3\ARM_GCC_541\Debug\CyBootAsmGnu.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_change_context_isr.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_irq_stack.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_multi_context.o .\CortexM3\ARM_GCC_541\Debug\ErikaOS_ee_gnu_oo.o
+arm-none-eabi-ar.exe: creating .\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.a
+arm-none-eabi-gcc.exe -Wl,--start-group -o C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.elf .\CortexM3\ARM_GCC_541\Debug\main.o .\CortexM3\ARM_GCC_541\Debug\swc_brakelight.o .\CortexM3\ARM_GCC_541\Debug\swc_control.o .\CortexM3\ARM_GCC_541\Debug\swc_engine.o .\CortexM3\ARM_GCC_541\Debug\swc_joystick.o .\CortexM3\ARM_GCC_541\Debug\tsk_control.o .\CortexM3\ARM_GCC_541\Debug\tsk_io.o .\CortexM3\ARM_GCC_541\Debug\tsk_system.o .\CortexM3\ARM_GCC_541\Debug\adc.o .\CortexM3\ARM_GCC_541\Debug\pwm_rgb.o .\CortexM3\ARM_GCC_541\Debug\uart.o .\CortexM3\ARM_GCC_541\Debug\watchdog.o .\CortexM3\ARM_GCC_541\Debug\rte.o .\CortexM3\ARM_GCC_541\Debug\sc_adc.o .\CortexM3\ARM_GCC_541\Debug\sc_adc_type.o .\CortexM3\ARM_GCC_541\Debug\sc_gpio.o .\CortexM3\ARM_GCC_541\Debug\sc_gpio_type.o .\CortexM3\ARM_GCC_541\Debug\sc_pwm.o .\CortexM3\ARM_GCC_541\Debug\sc_pwm_type.o .\CortexM3\ARM_GCC_541\Debug\sc_speed.o .\CortexM3\ARM_GCC_541\Debug\sp_common.o .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o .\CortexM3\ARM_GCC_541\Debug\cymetadata.o .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o .\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.a "C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM3\ARM_GCC_541\Debug\CyComponentLibrary.a" -mcpu=cortex-m3 -mthumb -L Generated_Source\PSoC5 -Wl,-Map,.\CortexM3\ARM_GCC_541\Debug/ElectronicGasPedal.map -T Generated_Source\PSoC5\cm3gcc.ld -specs=nano.specs -Wl,--gc-sections -g -ffunction-sections -Og -ffat-lto-objects -Wl,--end-group
+cyelftool.exe -C C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.elf --flash_row_size 256 --flash_size 262144 --flash_offset 0x00000000
+No ELF section .cychecksum found, creating one
+Application checksum calculated and stored in ELF section .cychecksum
+Checksum calculated and stored in ELF section .cymeta
+cyelftool.exe -S C:\Darmstadt\SecondSem\EAA\Lab1\GasPedal\ElectronicGasPedal.cydsn\CortexM3\ARM_GCC_541\Debug\ElectronicGasPedal.elf
+Flash used: 12136 of 262144 bytes (4.6%).
+SRAM used: 5649 of 65536 bytes (8.6%). Stack: 2048 bytes. Heap: 128 bytes.
+--------------- Rebuild Succeeded: 05/31/2021 23:20:09 ---------------
